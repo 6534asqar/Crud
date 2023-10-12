@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.warapInput {
+  margin: 0 auto;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  border: 2px solid green;
+}
+
+.btn {
+  width: 200px;
+  height: 50px;
+  color: black;
+  cursor: pointer;
+  background-color: blue;
+}
+table {
+  width: 90%;
+  margin: 0 auto;
+}
+td {
+  border: none;
+  padding: 10px;
+}
+tr {
+  border: 1px solid black;
+}
+tr button {
+  width: 80%;
+  height: 50px;
+}
+
+.input {
+  width: 300px;
+  height: 50px;
+}
+
+.warp {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.close {
+  width: 50px;
+  height: 20px;
+}
+
+.edit {
+  width: 50px;
+  height: 20px;
+}
